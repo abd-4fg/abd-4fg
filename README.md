@@ -1,16 +1,20 @@
-## Hi there 👋
+<div id="badges" align="center">
+  <a href="https://hackerone.com/abd" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerOne-494649?style=flat&logo=hackerone&logoColor=white" alt="Hackerone Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abd4fg/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://bugcrowd.com/abd_4fg" target="_blank">
+    <img src="https://img.shields.io/badge/-Bugcrowd-F26822?style=flat&logo=bugcrowd&logoColor=white" alt="Bugcrowd Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+  <a href="https://x.com/abd_4fg" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div id="body" align="center">
 
-<!--
-**abd-4fg/abd-4fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abd-4fg&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
