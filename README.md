@@ -11,7 +11,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://x.com/abd_4fg" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/twitter/follow/abd_4fg?style=social" alt="Twitter Badge"/>
   </a>
 </div>
 <div id="body" align="center">
